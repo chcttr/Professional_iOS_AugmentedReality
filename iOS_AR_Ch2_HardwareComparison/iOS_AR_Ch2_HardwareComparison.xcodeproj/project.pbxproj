@@ -151,6 +151,7 @@
 		96C897D613A70346002824C0 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastUpgradeCheck = 0430;
 				ORGANIZATIONNAME = Isidorey;
 			};
 			buildConfigurationList = 96C897D913A70346002824C0 /* Build configuration list for PBXProject "iOS_AR_Ch2_HardwareComparison" */;
@@ -274,6 +275,7 @@
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "iOS_AR_Ch2_HardwareComparison/iOS_AR_Ch2_HardwareComparison-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = "iOS_AR_Ch2_HardwareComparison/iOS_AR_Ch2_HardwareComparison-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
@@ -287,6 +289,7 @@
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "iOS_AR_Ch2_HardwareComparison/iOS_AR_Ch2_HardwareComparison-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = "iOS_AR_Ch2_HardwareComparison/iOS_AR_Ch2_HardwareComparison-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				VALIDATE_PRODUCT = YES;
@@ -313,6 +316,7 @@
 				96C8980813A70347002824C0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
