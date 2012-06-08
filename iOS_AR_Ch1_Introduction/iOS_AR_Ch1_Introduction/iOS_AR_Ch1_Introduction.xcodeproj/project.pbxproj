@@ -124,6 +124,7 @@
 		966EBA4A13A69F6C00D97AF4 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastUpgradeCheck = 0430;
 				ORGANIZATIONNAME = Isidorey;
 			};
 			buildConfigurationList = 966EBA4D13A69F6C00D97AF4 /* Build configuration list for PBXProject "iOS_AR_Ch1_Introduction" */;
@@ -228,6 +229,7 @@
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "iOS_AR_Ch1_Introduction/iOS_AR_Ch1_Introduction-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = "iOS_AR_Ch1_Introduction/iOS_AR_Ch1_Introduction-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
@@ -241,6 +243,7 @@
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "iOS_AR_Ch1_Introduction/iOS_AR_Ch1_Introduction-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = "iOS_AR_Ch1_Introduction/iOS_AR_Ch1_Introduction-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				VALIDATE_PRODUCT = YES;
@@ -267,6 +270,7 @@
 				966EBA7013A69F6C00D97AF4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
